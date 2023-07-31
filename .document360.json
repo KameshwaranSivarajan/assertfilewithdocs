@@ -2,6 +2,6 @@
     "root": "./docs",
     "structure": {
         "readme": "readme.md",
-        "summary": "Gettingstarte.md"
+        "summary": "Gettingstarted.md"
     }
 }
