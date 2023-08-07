@@ -1,4 +1,4 @@
 ### Welcome to Doc360
-Hello all
+Hello
 - [Demo](demo.md)
 - [Test](Test.md)
