@@ -1,1 +1,2 @@
 This bad article
+Sample 
