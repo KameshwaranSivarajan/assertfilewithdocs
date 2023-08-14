@@ -1,7 +1,8 @@
-### Welcome to Doc360
-Hello
+# Welcome to Doc360
 - [Demo](demo.md)
 - [Test](Test.md)
+
+  
+# Sample Category
 - [Good](Dark/Good.md)
-### Sample Category
-- [Good](Dark/Good.md)
+- [Bad](Dark/Bad.md)
