@@ -4,3 +4,6 @@
 
 # Sample Category
 - [Good](Dark/Good.md)
+- [Bad](Bad.md)
+
+Testing
