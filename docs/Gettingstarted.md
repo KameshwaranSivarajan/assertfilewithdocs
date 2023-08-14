@@ -5,4 +5,3 @@
   
 # Sample Category
 - [Good](Dark/Good.md)
-- [Bad](Dark/Bad.md)
