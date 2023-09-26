@@ -1,7 +1,5 @@
 # An h1 header
 
-Paragraphs are separated by a blank line.
-
 2nd paragraph. _Italic_, **bold**, and `monospace`. Itemized lists
 look like:
 
