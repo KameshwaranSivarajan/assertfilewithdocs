@@ -1,8 +1,6 @@
 # An h1 header
 
 2nd paragraph. _Italic_, **bold**, and `monospace`. Itemized lists
-look like:
-
 - this one
 - that one
 - the other one
