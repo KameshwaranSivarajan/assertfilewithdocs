@@ -15,4 +15,4 @@ content starts at 4-columns in.
 > if you like.
 > fffffff
 
-![alt text](.document360/asserts/Document360%20Logo.png "Title")
+![alt text](.document360/asserts/Document360%20Logo.png)
